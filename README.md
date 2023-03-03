@@ -1,11 +1,11 @@
-### Olá, sou Wallace Ketler
+### Hello! I'm Wallace
 -----------------------------------
 
 
-- 🔭 Estudando Engenharia de Computação no Centro Federal de Educação Tecnológica - MG
-- 👉 Programador Front-End React
-- 🌱 Estudando Flutter e NodeJS
-- 💬 Contate-me no e-mail wallace-m-m-2011@hotmail.com
+- 🔭 Studying Computer Engineering in Federal Center of Technological Education (CEFET-MG)
+- 👉 Front-End Developer with React JS
+- 🌱 Studying Flutter e NodeJS
+- 💬 Concact with me on wallace-m-m-2011@hotmail.com
 --------------------------------------------
 
 
